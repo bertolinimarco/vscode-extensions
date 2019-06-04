@@ -1,0 +1,34 @@
+{
+    "name": "vscode-extensions",
+    "displayName": "vscode-extensions",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.34.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "bertolinimarco.theme-newton", 
+        "christian-kohler.npm-intellisense", 
+        "DavidAnson.vscode-markdownlint", 
+        "EditorConfig.EditorConfig", 
+        "esbenp.prettier-vscode", 
+        "jtjoo.classic-asp-html", 
+        "mrmlnc.vscode-apache", 
+        "mrmlnc.vscode-autoprefixer", 
+        "mrmlnc.vscode-csscomb", 
+        "MS-CEINTL.vscode-language-pack-it", 
+        "ms-mssql.mssql", 
+        "ms-vscode.csharp", 
+        "ms-vsliveshare.vsliveshare", 
+        "octref.vetur", 
+        "PKief.material-icon-theme", 
+        "rifi2k.format-html-in-php", 
+        "sysoev.language-stylus", 
+        "thisismanta.stylus-supremacy", 
+        "usernamehw.remove-empty-lines", 
+        "VisualStudioExptTeam.vscodeintellicode"
+    ]
+}
